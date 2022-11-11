@@ -11,7 +11,7 @@ class DBTool(object):
 
     # method to get connected to the database
     @classmethod
-    def get_connected(cls, dbHost='localhost', dbName='dictionary', dbUser='postgres', dbPass='postgres'):
+    def get_connected(cls, dbHost='localhost', dbName='dictionary', dbUser='postgres', dbPass='password'):
         try:
             if (cls.initialized):
                 cls.conn = cls.psql_connect(host=dbHost, database=dbName, user=dbUser, password=dbPass)

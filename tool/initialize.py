@@ -96,7 +96,7 @@ def begin():
             host='localhost', 
             database='dictionary', 
             user='postgres', 
-            password='postgres'
+            password='password'
         )
 
         # success message
