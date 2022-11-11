@@ -13,4 +13,4 @@ A simple python app to look up chinese characters and view their stroke orders!
 
 ### to start:
 
-1. run `main.py`
+1. run `python3 main.py` inside your fav shell
