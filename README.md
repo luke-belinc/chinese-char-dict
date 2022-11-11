@@ -1,6 +1,8 @@
 # chinese-char-dict
 A simple python app to look up chinese characters and view their stroke orders!
 
+![Exmaple](example.gif)
+
 ### before running: 
 
 1. install [PostgreSQL](https://www.postgresql.org/download/)
