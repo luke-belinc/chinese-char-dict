@@ -1,5 +1,9 @@
 # chinese-char-dict
+
 A simple python app to look up chinese characters and view their stroke orders!
+
+Not possible without [Make Me A Hanzi](https://www.skishore.me/makemeahanzi/) project
+
 
 ![Exmaple](example.gif)
 
